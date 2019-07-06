@@ -5,4 +5,5 @@ github搭建个人网站
 4. 进入项目设置页面
 5. 进入自动页面生成器
 6. 创建技术博客站点
-查看：https://deeqin.github.io/helloworld/
+查看：[https://deeqin.github.io/helloworld/](https://deeqin.github.io/helloworld/ "老秦 博客")
+
